@@ -1,38 +1,29 @@
 <div align="center">
-
   <p>
-  <a href="https://favna.xyz/ribbon"><img src="https://favna.xyz/images/ribbonhost/GitHubBanner.png" height="200" alt="ribbon"/></a>
+    <h1>RibbonZone</h3>
+      <a href="http://ribbonzone.club"><img src="http://i.imgur.com/PLh059j.gif" alt="Hippity hop!" title="RibbonZone" /></a>
+      <h3>An <i>ambient life simulation</i> driven by the user activity within a <a href="">Discord</a> server<br/>
+        <small>based on <a href="https://github.com/vegeta897">vegeta897's</a> <a href="https://github.com/vegeta897/d-zone">D-Zone</a> with updates to code styling and personal customization</small>
+      </h3>
   </p>
 
   <p>
-   <a href="https://depfu.com/repos/Favna/Ribbon"><img src="https://img.shields.io/depfu/Favna/Ribbon.svg?style=for-the-badge" alt="Depfu" /></a><!--
---><a href="https://circleci.com/gh/Favna/Ribbon/tree/master"><img src="https://img.shields.io/circleci/project/github/Favna/Ribbon.svg?style=for-the-badge" alt="CircleCI"></a><!--
---><a href="https://github.com/Favna/Ribbon/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/favna/ribbon.svg?style=for-the-badge" alt="License"></a><!--
---><a href="https://twitter.com/Favna_"><img src="https://img.shields.io/twitter/follow/espadrine.svg?style=for-the-badge&label=Follow" alt="Twitter Follow"></a>
-<br/>
-<a href="https://www.npmjs.com/package/discord-ribbon"><img src="https://img.shields.io/node/v/discord-ribbon.svg?style=for-the-badge" alt="Node Version"></a><!--
---><a href="https://www.npmjs.com/package/discord-ribbon"><img src="https://img.shields.io/npm/v/discord-ribbon.svg?style=for-the-badge" alt="NPM Version"></a>
-  </p>
-
-  <p>
-  <img src="https://forthebadge.com/images/badges/uses-badges.svg" alt="Uses Badges"><!--
---><img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"><!--
---><img src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="Made with JavaScript"><!--
---><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="Powered by Electricity">
+    <a href="https://github.com/Favna/ribbonzone-server/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/favna/ribbon.svg?style=for-the-badge" alt="License"></a><!-- 
+     --><a href="https://twitter.com/Favna_"><img src="https://img.shields.io/twitter/follow/espadrine.svg?style=for-the-badge&label=Follow" alt="Twitter Follow"></a>
   </p>
 
   <p>
     <a href="https://discord.gg/zdt5yQt"><img src="https://canary.discordapp.com/api/guilds/246821351585742851/widget.png?style=banner2" alt="Join Discord Server"/></a>
   </p>
-
-  <p>
-  <a href="https://discordbots.org/bot/376520643862331396"><img src="https://discordbots.org/api/widget/376520643862331396.svg?topcolor=697EC4&middlecolor=303333" alt="Discordbots Listing" /></a>
-  </p>
 </div>
 
-## What is this?
+## Special Thanks
 
-This is the client sided code for the d-zone environment for [Ribbon](https://github.com/favna/ribbon). You can view it on [ribbonzone.club](http://ribbonzone.club)
+- vegeta897 for the original code of D-Zone
+
+- AcedArmy / Biscuit for helping this total noob with hosting issues
+
+- All the creators of the node packages used in this project
 
 ## Buy me a donut
 
