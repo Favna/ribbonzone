@@ -1,0 +1,14 @@
+{
+  "name": "ribbonzone-client",
+  "version": "1.0.0",
+  "description": "client part of ribbonzone",
+  "main": "index.html",
+  "repository": "git@github.com:Favna/ribbonzone-client.git",
+  "author": "Jeroen Claassens <jeroen.claassens@live.nl>",
+  "license": "GPL-3.0",
+  "private": false,
+  "scripts": {
+    "start": "http-server . -a localhost -p 1337 -c-1 -o",
+    "publish": "git add . && git commit -am \"publishing client\" && git push"
+  }
+}
