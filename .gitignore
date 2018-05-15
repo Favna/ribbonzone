@@ -6,3 +6,6 @@ conf.json
 
 # VSCode settings
 .vscode/
+
+# Node modules need to be installed through yarn
+node_modules/
