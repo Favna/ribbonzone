@@ -13,12 +13,12 @@ app
 app
   .all('/*', (req, res) => res.sendFile(path.join(__dirname, 'index.html')));
 
-// app.listen(5623, () => {
-//   console.log('Server started on http://localhost:5623');
-// });
+app.listen(5623, () => {
+  console.log('Server started on http://localhost:5623');
+});
 
 // Local testing for mobile
 
-app.listen(5623, '192.168.2.4', () => {
-  console.log('Server started on http://192.168.2.4:5623');
-});
+// app.listen(5623, '192.168.2.4', () => {
+//   console.log('Server started on http://192.168.2.4:5623');
+// });
